@@ -38,7 +38,7 @@ function App() {
     <Grid container justifyContent="center" alignItems="center" spacing={4}>
       <Grid item md={4}></Grid>
       <Grid item md={4} justifyItems="center">
-        <img src={logo} width="50%" height="auto" />
+        <img src={logo} width="260" height="191" alt="logo" />
         <p style={{ fontSize: '20px'}}>Entre em contato conosco!</p>
         <Item url="https://www.facebook.com/Ecenture-111879148052458/">
           <Grid container alignItems="center">
